@@ -2,7 +2,8 @@ Add feature 1
 
 feature 1 start
 
-feature 1 pending
+feature 1 stop pending and starting again.
 
-feature 1 bug fix
+feature 1 bug fixed by feature 2
 
+feature 1 updated.
